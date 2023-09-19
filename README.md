@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Alexander Dobrev
+- 👀 I’m interested in Python programming, DevOps engineering
+- 🌱 I’m currently learning Programming Fundamentals with Python in SoftUni
+
+<!---
+alexanderdobrev9613/alexanderdobrev9613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
