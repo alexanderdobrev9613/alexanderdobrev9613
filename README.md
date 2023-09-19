@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Dobrev
-- 👀 I’m interested in Python programming, DevOps engineering
+- 👀 I’m interested in Python programming and DevOps engineering
 - 🌱 I’m currently learning Programming Fundamentals with Python in SoftUni
 
 <!---
